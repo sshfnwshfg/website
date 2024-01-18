@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRTeTQced9mjL1QoWm3KdFs_zbKrV2K15qX1KEdu9i2xlRBzR63kq0dSBNE2DqfjSZ4WOh_qTtyjt2XCjhU8MdONpky=w1920-h883" width="1250" height="250">
+<h1 style="font-family:verdana; color:red;">RMIT is a global university of technology, design and enterprise</h1>
+<li><strong style="font-family:verdana; color:blue;">Top 200 </strong> universities worldwide. (QS World University Ranking 2021) </li>
+<li><strong style="font-family:verdana; color:blue;">12,456 </strong> industry placements. </li>
+<li><strong style="font-family:verdana; color:blue;">90,000 </strong> students from 194 different countries studying at RMIT.</li>
+
+<h1 style="font-family:verdana; color:red;">Enjoy a global experience</h1>
+<p style="font-family:verdana;"> As part of a truly global university, we offer experiences at campuses all over the world </p>
+
+<li><strong style="font-family:verdana; color:blue;">Australia </strong></li>
+<ul style="list-style-type:circle;">
+  <li style="font-family:verdana;"> Melbourne city campus</li>
+  <li style="font-family:verdana;">Bundoora campus</li>
+  <li style="font-family:verdana;"> Brunswick campus</li>
+</ul> 
+<li><strong style="font-family:verdana; color:blue;">Vietnam </strong></li>
+<ul style="list-style-type:circle;">
+  <li style="font-family:verdana;">Saigon South campus</li>
+  <li style="font-family:verdana;"> Hanoi campus</li>
+</ul> 
+<li><strong style="font-family:verdana; color:blue;">Spain </strong></li>
+<ul style="list-style-type:circle;">
+  <li style="font-family:verdana;"> Barcelona campus</li>
+<h1 style="background-color:red;font-family:verdana;color:white;">Explore your study options</h1>
+<p style="background-color:red;font-family:verdana;color:white;">There are many different paths you can take on your higher education journey</p>
+
+</ul> 
+</body>
+</html>
